@@ -1,0 +1,33 @@
+{
+  "name": "nodejsmongodb",
+  "version": "1.0.0",
+  "description": "job offers app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taourarte/jobOffers.git"
+  },
+  "keywords": [
+    "reactjs",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Aissa TAOURARTE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taourarte/jobOffers/issues"
+  },
+  "homepage": "https://github.com/taourarte/jobOffers#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.8"
+  }
+}
