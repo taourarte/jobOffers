@@ -1,6 +1,6 @@
 module.exports = {
 
-    url : 'mongodb://adminMe:adminMe@ds247007.mlab.com:47007/joboffers'
+    url : 'mongodb://<userName>:<password>@ds247007.mlab.com:47007/joboffers'
  
 
 
